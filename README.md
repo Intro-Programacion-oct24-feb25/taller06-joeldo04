@@ -1,4 +1,4 @@
-# taller06
+# taller06 ( JOEL DOMINGUEZ OCHOA - DIEGO ESPINOSA GRANDA )
 
 ### Problema01
 
