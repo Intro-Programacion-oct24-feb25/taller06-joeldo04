@@ -1,4 +1,5 @@
-# taller06 ( JOEL DOMINGUEZ OCHOA - DIEGO ESPINOSA GRANDA )
+# taller06
+### Integrantes: Joel Dominguez Ochoa - Diego Espinosa Granda 
 
 ### Problema01
 
